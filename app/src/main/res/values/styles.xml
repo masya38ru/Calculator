@@ -1,0 +1,14 @@
+<resources>
+<!--TODO parent=" "-->
+    <style name="ButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:textSize">28sp</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textColor">@color/colorButtonText</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@drawable/button_selector</item>
+        <item name="android:textAllCaps">true</item>
+
+
+    </style>
+
+</resources>
